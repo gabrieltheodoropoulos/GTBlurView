@@ -15,7 +15,7 @@ GTBlurView is a Swift library that allows to add blur effect to any view with or
 
 To integrate `GTBlurView` into your projects follow the next steps:
 
-1. Copy the repository's URL to GitHub (it can be found by clicking on the *Clone or Download* button).
+1. Copy the repository's URL to GitHub.
 2. Open your project in Xcode.
 3. Go to menu **File > Swift Packages > Add Package Dependency...**.
 4. Paste the URL, select the package when it appears and click Next.
