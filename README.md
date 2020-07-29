@@ -3,7 +3,7 @@
 ![Language](https://img.shields.io/badge/Language-Swift-orange)
 ![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![Version](https://img.shields.io/badge/Version-1.0.2-blue)
 
 #### Add blur effect to any view in a simple, modern and declarative way.
 
@@ -200,6 +200,10 @@ GTBlurView.addBlur(to: self)
 To change blur transparency level you can change the `alpha` value of the returned `GTBlurView` instance by any of the `show()` or `showAnimated(duration:completion:)` methods.
 
 Read the documentation of each method using Xcode's Quick Help for additional details. 
+
+## Version
+
+Current up-to-date version is 1.0.2.
 
 ## License
 
